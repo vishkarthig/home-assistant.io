@@ -23,3 +23,5 @@
     "textlint": "textlint source/_examples source/_docs source/_faq source/_integrations source/_lovelace source/cloud source/getting-started source/hassio source/lovelace"
   }
 }
+
+{
